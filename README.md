@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Gustavo Noronha and I am a Programmer / Teacher at the Jovem Dev.
+Hi, my name is Gustavo Noronha and I am a Programmer web and mobile.
 
 - 💬 Ask me about in the Instagram: @gustavoNoronha0
 - ⚡ Main: Html, Css, Bootstrap 4, React, React native, Javascript, TypeScript, Node js, MongoDB and Mysql 
