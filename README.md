@@ -1,11 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gustavo Noronha</h1>
 <h3 align="center">A full stack Brazilian developer looking to evolve</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> 
 <a href="mailto:gustavonoronha0@hotmail.com?"><img src="https://img.shields.io/badge/EMAIL-%23DD0031.svg?&logo=gmail&logoColor=white&logoBackground=blue"/></a>
+</p>
+<p align="center">
+  - 💬 Ask me about in instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a>
 </p>
 
 
-- 💬 Ask me about in instagram @gustavonoronha0
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
