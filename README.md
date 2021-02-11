@@ -11,8 +11,8 @@ Hi, my name is Gustavo Noronha and I am a Programmer web and mobile.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
 
-[![Gustavo Noronha github stats](https://github-readme-stats.vercel.app/api?username=GustavoNoronha0&count_private=true&theme=dark&show_icons=true)](https://github.com/GustavoNoronha0/GustavoNoronha0)
+[![Gustavo Noronha github stats](https://github-readme-stats.vercel.app/api?username=GustavoNoronha0&count_private=true&theme=light&show_icons=true)](https://github.com/GustavoNoronha0/GustavoNoronha0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha0&langs_count=5&theme=dark)](https://github.com/GustavoNoronha0/GustavoNoronha0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNoronha0&langs_count=5&theme=light)](https://github.com/GustavoNoronha0/GustavoNoronha0)
 
 
