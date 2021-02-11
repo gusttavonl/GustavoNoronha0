@@ -19,6 +19,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </p><p align="center"> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=GustavoNoronha0&show_icons=true" alt="GustavoNoronha0" /> </p>
 
 
+🎯 Focus, development is work and leisure
+
+
 
 
 
