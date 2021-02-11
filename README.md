@@ -4,7 +4,7 @@
 <a href="mailto:gustavonoronha0@hotmail.com?"><img src="https://img.shields.io/badge/EMAIL-%23DD0031.svg?&logo=gmail&logoColor=white&logoBackground=blue"/></a>
 </p>
 <p align="center">
-   💬 Ask me about in instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a>
+   💬 Talk to me on instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a>
 </p>
 
 
