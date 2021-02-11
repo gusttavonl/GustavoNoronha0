@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gustavo Noronha</h1>
 <h3 align="center">A full stack Brazilian developer looking to evolve</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> 
+<a href="mailto:gustavonoronha0@hotmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 
 - 💬 Ask me about in instagram @gustavonoronha0
 
