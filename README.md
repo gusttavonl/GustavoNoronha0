@@ -5,8 +5,8 @@
 <a href="https://www.instagram.com/gustavonoronha0/"><img src="https://img.shields.io/badge/-gustavonoronha0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gustavonoronha0/" alt="GustavoNoronha0" /></a>
 </p>
 <p align="center">
+   😄 Happy to be CEO of housic, a revolutionary new entertaining app <br>
    💬 Talk to me on instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a> <br>
-    😄 Happy to be CEO of housic, a revolutionary new entertaining app <br>
    🎯 Focus, development is work and leisure
 
 </p>
