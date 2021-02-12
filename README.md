@@ -6,7 +6,9 @@
 </p>
 <p align="center">
    💬 Talk to me on instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a> <br>
+    😄 Happy to be CEO of housic, a revolutionary new entertaining app <br>
    🎯 Focus, development is work and leisure
+
 </p>
 
 
