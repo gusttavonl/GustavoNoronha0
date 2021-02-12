@@ -2,6 +2,7 @@
 <h3 align="center">A full stack Brazilian developer looking to evolve</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> 
 <a href="mailto:gustavonoronha0@hotmail.com?"><img src="https://img.shields.io/badge/EMAIL-%23DD0031.svg?&logo=gmail&logoColor=white&logoBackground=blue"/></a>
+<a href="https://www.instagram.com/gustavonoronha0/"><img src="https://img.shields.io/badge/-gustavonoronha0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gustavonoronha0/" alt="GustavoNoronha0" /></a>
 </p>
 <p align="center">
    💬 Talk to me on instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a> <br>
