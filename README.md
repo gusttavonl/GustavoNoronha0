@@ -14,8 +14,8 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> 
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="55"/> 
 <img src="https://user-images.githubusercontent.com/77861206/107677123-aed4f780-6c78-11eb-8699-630cc3b6f2ed.png" alt="css" width="45" height="55"/> 
 <img src="https://user-images.githubusercontent.com/77861206/107676904-6a495c00-6c78-11eb-9caa-08ee2ad24f36.png" alt="bootstrap" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
