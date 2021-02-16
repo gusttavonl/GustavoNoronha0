@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/gustavonoronha0/"><img src="https://img.shields.io/badge/-gustavonoronha0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gustavonoronha0/" alt="GustavoNoronha0" /></a>
 </p>
 <p align="center">
-   😄 Here you will find codes for MERN, MysqlERN and MERNG, and mainly clones. <br>
+   😄 Here you will find codes for MERN, MysqlERN and MERNG, mainly clones. <br>
    💬 Talk to me on instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a> <br>
    🎯 Focus, development is work and leisure
 
