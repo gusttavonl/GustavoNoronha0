@@ -3,6 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> 
 <a href="mailto:gustavonoronha0@hotmail.com?"><img src="https://img.shields.io/badge/EMAIL-%23DD0031.svg?&logo=gmail&logoColor=white&logoBackground=blue"/></a>
 <a href="https://www.instagram.com/gustavonoronha0/"><img src="https://img.shields.io/badge/-gustavonoronha0-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/gustavonoronha0/" alt="GustavoNoronha0" /></a>
+<a href="https://www.linkedin.com/in/gustavonoronha0/"><img  width="20" height="20" src="https://user-images.githubusercontent.com/77861206/108141093-dc1f0c80-70a1-11eb-9785-b0d766d22fff.png" alt="Linkedin" /></a>
 </p>
 <p align="center">
    😄 Here you will find codes for MERN, MysqlERN and MERNG, mainly clones. <br>
