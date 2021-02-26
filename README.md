@@ -6,8 +6,9 @@
 <a href="https://www.linkedin.com/in/gustavonoronha0/"><img  width="20" height="20" src="https://user-images.githubusercontent.com/77861206/108141093-dc1f0c80-70a1-11eb-9785-b0d766d22fff.png" alt="Linkedin" /></a>
 </p>
 <p align="center">
-   😄 Don't forget to look at the repository tab. <br>
+  
    💬 Talk to me on instagram <a href="https://www.instagram.com/gustavonoronha0/">@gustavonoronha0</a> <br>
+   😄 Don't forget to look at the repository tab. <br>
    🎯 Focus, development is work and leisure
 
 </p>
