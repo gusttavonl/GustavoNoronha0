@@ -1,16 +1,15 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gustavo Noronha</h1>
-<h3 align="center">A full stack Brazilian developer looking to evolve</h3>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gustavo Noronha</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GustavoNoronha0" alt="GustavoNoronha0" /> 
-<a href="mailto:gustavonoronha0@hotmail.com?"><img src="https://img.shields.io/badge/EMAIL-%23DD0031.svg?&logo=gmail&logoColor=white&logoBackground=blue"/></a>
 <a href="https://www.instagram.com/noronhaax"><img src="https://img.shields.io/badge/-noronhaax-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/noronhaax/" alt="noronhaax" /></a>
 <a href="https://www.linkedin.com/in/gustavonoronha0/"><img  width="20" height="20" src="https://user-images.githubusercontent.com/77861206/108141093-dc1f0c80-70a1-11eb-9785-b0d766d22fff.png" alt="Linkedin" /></a>
-</p>
-<p align="center">
-   💬 Talk to me on instagram <a href="https://www.instagram.com/noronhaax">@noronhaax</a> <br>
-   😄 Don't forget to look at the repository tab. <br>
-   🎯 Focus, development is work and leisure
+<h4>A full stack Brazilian developer looking to evolve</h4>
 
-</p>
+**Front end skills**:</br>
+HTML5 • CSS3 • Javascript ES6+ • ReactJS • Jest • Axios • Bootstrap • Material UI • Styled Components
+
+**Back end skills**:<br/>
+Nodejs • Express • Rest APIs • TDD with Jest • PostgreSQL • Mysql • Sequelize • Typeorm • JWT • MVC • Clean Architeture • Solid • TDD
+
 
 
 
