@@ -5,10 +5,10 @@
 <h4>A full stack Brazilian developer looking to evolve</h4>
 
 **Front end skills**:</br>
-HTML5 • CSS3 • Javascript ES6+ • ReactJS • Jest • Axios • Bootstrap • Material UI • Styled Components
+HTML5 • CSS3 • Javascript ES6+ • Typescript •  ReactJS • Jest • Axios • Bootstrap • Material UI • Styled Components
 
 **Back end skills**:<br/>
-Nodejs • Express • Rest APIs • TDD with Jest • PostgreSQL • Mysql • Sequelize • Typeorm • JWT • MVC • Clean Architeture • Solid • TDD
+Nodejs • Express • Typescript • Rest APIs • TDD with Jest • PostgreSQL • Mysql • Sequelize • Typeorm • JWT • MVC • Clean Architeture • Solid • TDD
 
 
 
